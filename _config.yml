@@ -29,8 +29,15 @@ github_username:  Hibbertda
 
 # Build settings
 theme: minima
+#theme: jekyll-theme-bootstrap
 plugins:
   - jekyll-feed
+  - jekyll-archives
+
+header_pages:
+  - azure.markdown
+  - homeAutomation.markdown
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.

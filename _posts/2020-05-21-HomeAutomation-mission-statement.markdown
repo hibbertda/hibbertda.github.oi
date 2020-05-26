@@ -2,7 +2,7 @@
 layout: post
 title:  "Home Automation: Mission Statement"
 date:   2020-05-21 13:00:32 -0400
-categories: HomeAutomation HASS HA
+categories: ["Home Automation","HASS"]
 ---
 I have had the dream of Home Automation for years. 
 
