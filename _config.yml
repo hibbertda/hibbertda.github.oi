@@ -28,7 +28,7 @@ url: "http://blog.notanexpert.us" # the base hostname & protocol for your site, 
 github_username:  Hibbertda
 
 # Build settings
-theme: minima
+theme: jekyll-theme-dinky
 #theme: jekyll-theme-bootstrap
 plugins:
   - jekyll-feed
